@@ -1,6 +1,6 @@
 # Form-validation-
 
-Sure! Here's an overview of the GitHub account creation validation form project:
+Sure! Here's an overview of the account creation validation form project:
 
 Project Overview
 
